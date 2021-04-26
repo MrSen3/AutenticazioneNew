@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60818225057",
+    "project_id": "autenticazione-daf2e",
+    "storage_bucket": "autenticazione-daf2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60818225057:android:3bdc410593af433cd9fde0",
+        "android_client_info": {
+          "package_name": "it.pmsc.silviosenese.autenticazionenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60818225057-qlgkgriho4qpdplr84nenbht2ido51jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFAxPUYC3XECUPdZLThpJHU_wbnn3KLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60818225057-qlgkgriho4qpdplr84nenbht2ido51jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
