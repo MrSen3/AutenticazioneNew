@@ -42,6 +42,8 @@ final private String TAG = "Login Activity";
     //Google
     GoogleSignInClient mGoogleSignInClient;
 
+    //DAjeDajeDaje
+
     //Facebook
     LoginButton loginButton;
     CallbackManager mCallbackManager=CallbackManager.Factory.create();;
